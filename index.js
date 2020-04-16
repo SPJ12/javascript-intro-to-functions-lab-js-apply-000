@@ -9,6 +9,7 @@ function whisper(String)
 function logShout(String)
 {
   console.log(String.toUpperCase())
+<<<<<<< HEAD
 }
 function logWhisper(String)
 {
@@ -23,3 +24,6 @@ if(String === String.toUpperCase())
 if(String === "I love you, Grandma.")
 {return "I love you, too."}
 }
+=======
+}
+>>>>>>> 0af65482ce1613d4f3c86e414f3b4a2609f59fcf
